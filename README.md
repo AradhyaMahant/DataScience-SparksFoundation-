@@ -62,11 +62,6 @@ _Please click on the images on right side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/N4AFlnEoigk)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-5_Superstore.xlsx)
 
-
-
-
-You can view all the tasks on my [youtube playlist](https://www.youtube.com/playlist?list=PLWA7Ml8Rq3KfV6QSeO_Hr9t0xbfc-Xdg2) as well.
-
  ### References -
  - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
  - [Scikit Learn](https://scikit-learn.org/stable/)
