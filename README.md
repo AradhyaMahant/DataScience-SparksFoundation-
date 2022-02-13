@@ -33,14 +33,6 @@ In this internship, we were provided a total of 4 Tasks and I was able to succes
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
 
-### # Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
-
-1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
-1. Stock to analyze and predict SENSEX (S&P BSE SENSEX)
-1. Download historical stock prices from [finance.yahoo.com](https://finance.yahoo.com/?guccounter=1)
-1. Download textual (news) data from [https://bit.ly/36fFPI6](https://bit.ly/36fFPI6)
-1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
-
  ### References -
  - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
  - [Scikit Learn](https://scikit-learn.org/stable/)
